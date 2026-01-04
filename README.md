@@ -18,7 +18,7 @@ Installation:
 
 No external dependencies are required. This uses the Python Standard Library.
 
-git clone https://github.com/PJDev0/python-port-scanner.git
+git clone https://github.com/PJDev0/python-port-scanner
 
 
 
@@ -60,6 +60,7 @@ Scan complete! Found 2 open ports.
 
 Author
 Created by PJDev0
+
 
 
 
