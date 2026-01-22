@@ -4,7 +4,7 @@ A high-performance, multi-threaded port scanner developed in Python. This tool a
 
 Legal Disclaimer
 
-This tool is for educational purposes ONLY. Network scanning without explicit permission is illegal in many jurisdictions. Do NOT scan networks you do not own or have written permission to test. The author assumes no liability for misuse of this software.
+This tool is for educational purposes only. Network scanning without explicit permission is illegal in many jurisdictions. Do not scan networks you do not own or have written permission to test. The author assumes no liability for misuse of this software.
 
 
 Features:
@@ -58,8 +58,9 @@ Example Output
 --------------------------------------------------
 Scan complete! Found 2 open ports.
 
-Author
-Created by PJDev0
+
+
+
 
 
 
