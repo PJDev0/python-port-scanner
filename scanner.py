@@ -4,7 +4,7 @@ import concurrent.futures
 import sys
 
 # --- CONFIGURATION ---
-# These are color codes to make the terminal look nice
+
 GREEN = "\033[92m"  # Open ports
 RED = "\033[91m"    # Errors
 RESET = "\033[0m"   # Reset color
@@ -100,4 +100,5 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print(f"\n{RED}[!] Scan interrupted by user (Ctrl+C).{RESET}")
+
         sys.exit(0)
